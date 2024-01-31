@@ -29,8 +29,6 @@ Specifically, you will assume the perspective of a KryptoJobs2Go customer in ord
 * Digitally sign a transaction that pays a KryptoJobs2Go candidate, and send this transaction to the Ganache blockchain.
 
 * Review the transaction hash code associated with the validated blockchain transaction.
-<img width="1203" alt="Screenshot 2024-01-30 at 6 17 08 PM" src="https://github.com/carebear4ever/Cryptocurrency-Wallet/assets/141070883/4d5a3b10-c1ad-4cad-8eee-42cc3f0dca2f">
-
 Once you receive the transaction’s hash code, you will navigate to the Transactions section of Ganache to review the blockchain transaction details. To confirm that you have successfully created the transaction, you will save screenshots to the README.md file of your GitHub repository for this Challenge assignment.
 
 
